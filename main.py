@@ -1,10 +1,8 @@
 import pandas as pd
 import numpy as np
 import json
-import matplotlib.pyplot as plt
-Testing bot
-# Create sample data
-data = {
+import matplotlib.pyplot as plttesting bot 
+# testing bot
     'Name': ['John', 'Alice', 'Bob'],
     'Age': [25, 30, 22],
     'City': ['New York', 'San Francisco', 'Los Angeles']
